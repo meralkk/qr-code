@@ -14,7 +14,7 @@ body {
     --lightgray: hsl(212, 45%, 89%);
     --rayishblue: hsl(220, 15%, 55%);
     --darkblue: hsl(218, 44%, 22%);
-}
+} 
 
 .container {
     background-color: var(--white);
